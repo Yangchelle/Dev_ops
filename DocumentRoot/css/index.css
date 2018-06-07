@@ -1,0 +1,130 @@
+html,body,div,ul,li,span,p,h1{
+    /*margin: 0;*/
+    padding: 0;
+}
+.container{
+    width: 1500px;
+    height: 335px;
+    background: lightcoral;
+}
+.picture{
+    width: 1500px;
+    height: 269px;
+    background: lightcyan;
+}
+.guide{
+    width: 1500px;
+    height:66px;
+    background:rgb(103, 133, 197)
+}
+li{
+display:inline;
+float:left;
+list-style: none;
+}
+ul{
+list-style-type:none;
+margin:0;
+padding:0;
+text-align: center;
+}
+ul.topleft{
+    text-align: left;
+    /*padding-top: 8px;*/
+}
+a{
+display:block;
+width:250px;
+}
+.line{
+    display: inline-block;
+}
+.more{
+    width: 93px;
+    height: 60px;
+    float: right;
+}
+.main{
+    width: 1500px;
+    height: 868px;
+    background: red;
+    margin: 0 auto;
+}
+.top{
+    width: 1500px;
+    height: 442px;
+    background: lightblue;
+}
+.topleft{
+    width: 525px;
+    height: 442px;
+    background:lightseagreen;
+    float: left;
+}
+.inform{
+    width: 525px;
+    height: 66px;
+    background: lightblue;
+    float: left;
+}
+.topright{
+    width: 975px;
+    height: 442px;
+    background:black;
+    float: right;
+}
+.topcenter{
+    width: 396px;
+    height: 376px;
+    background: lightsalmon;
+    float: left;
+}
+
+.subject{
+    width: 975px;
+    height:66px;
+    background: lightblue;
+    float: left;
+}
+.below{
+    width: 1500px;
+    height: 430px;
+    background: pink;
+}
+.belowleaf{
+    width: 650px;
+    height: 430px;
+    background: lightgreen;
+    float: left;
+}
+.study{
+    width: 650px;
+    height: 66px;
+    background:lightblue;
+    float: left;
+}
+.belowright{
+    width :850px;
+    height: 430px;
+    background: white;
+    float: right;
+}
+.education{
+    width: 605px;
+    height: 66px;
+    background: lightblue;
+    float: left;
+}
+.college{
+    width: 243px;
+    height: 430px;
+    background: lightgreen;
+    float: right;
+    border: 1px solid lightslategray;
+}
+.footer{
+    width: 1500px;
+    height: 176px;
+    background: rgb(5, 49, 145);
+}
+/*看到39:36了，加油！*/
